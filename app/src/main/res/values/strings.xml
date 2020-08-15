@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SearchImage</string>
+
+    <string name="search_hint">Enter your hash tag</string>
+    <string name="internet_error">Please check your internet connection</string>
+    <string name="some_error">Something went wrong</string>
+    <string name="add_comment">Add Comment</string>
+</resources>
